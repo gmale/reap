@@ -11,7 +11,7 @@ Reap is:
  
 Reap is not:
  - a replacement for git
- - as useful when you only ever work with one "parent project"
+ - as useful if you only ever work with one "parent project"
  
 ##Origin
 GIT is an amazing tool that has had a major impact on the entire software industry. It's an elegant solution, until you need to work with a half-dozen or more repos simultaneously. Of course, writing software nearly always requires modular "building blocks." Yet, when there's a "models" or "utilities" project that is a dependency of many larger projects, GIT makes mixing and matching those building blocks a real challenge.
